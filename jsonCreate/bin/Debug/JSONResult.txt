@@ -1,0 +1,55 @@
+{
+  "Name": "Test",
+  "DateCreated": "2018-11-02T16:21:26.2343161Z",
+  "Files": [
+    {
+      "Name": "004.jpg",
+      "Size": "147775 B",
+      "Path": "E:\\Test"
+    },
+    {
+      "Name": "616D3EqByNL._SL1200_.jpg",
+      "Size": "77507 B",
+      "Path": "E:\\Test"
+    },
+    {
+      "Name": "61kClARNZKL._SL1200_.jpg",
+      "Size": "72912 B",
+      "Path": "E:\\Test"
+    },
+    {
+      "Name": "71MILpG4TAL._SL1500_.jpg",
+      "Size": "120912 B",
+      "Path": "E:\\Test"
+    },
+    {
+      "Name": "krrqvrqxc28.jpg",
+      "Size": "328822 B",
+      "Path": "E:\\Test"
+    }
+  ],
+  "Children": [
+    {
+      "Name": "Doulci Activtor 2.3V",
+      "DateCreated": "2018-11-02T17:00:18.6709732Z",
+      "Files": [
+        {
+          "Name": "Doulci_Activator.exe",
+          "Size": "13703021 B",
+          "Path": "E:\\Test\\Doulci Activtor 2.3V"
+        },
+        {
+          "Name": "key.txt",
+          "Size": "197 B",
+          "Path": "E:\\Test\\Doulci Activtor 2.3V"
+        },
+        {
+          "Name": "Новый текстовый документ.txt",
+          "Size": "86 B",
+          "Path": "E:\\Test\\Doulci Activtor 2.3V"
+        }
+      ],
+      "Children": []
+    }
+  ]
+}

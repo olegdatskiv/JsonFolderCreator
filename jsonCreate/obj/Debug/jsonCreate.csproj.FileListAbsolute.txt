@@ -1,0 +1,9 @@
+C:\Users\1\Desktop\jsonCreate\jsonCreate\bin\Debug\jsonCreate.exe.config
+C:\Users\1\Desktop\jsonCreate\jsonCreate\bin\Debug\jsonCreate.exe
+C:\Users\1\Desktop\jsonCreate\jsonCreate\bin\Debug\jsonCreate.pdb
+C:\Users\1\Desktop\jsonCreate\jsonCreate\bin\Debug\Newtonsoft.Json.dll
+C:\Users\1\Desktop\jsonCreate\jsonCreate\bin\Debug\Newtonsoft.Json.xml
+C:\Users\1\Desktop\jsonCreate\jsonCreate\obj\Debug\jsonCreate.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\jsonCreate\jsonCreate\obj\Debug\jsonCreate.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\jsonCreate\jsonCreate\obj\Debug\jsonCreate.exe
+C:\Users\1\Desktop\jsonCreate\jsonCreate\obj\Debug\jsonCreate.pdb
